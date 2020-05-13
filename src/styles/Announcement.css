@@ -1,0 +1,37 @@
+.announcement {
+    width: inherit;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 2;
+    background-color: rgb(216, 166, 160);
+    height: fit-content;
+    background-color: rgba(216,166,160,0.4);
+    border-radius: 5%;
+}
+
+.title {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: darkred;
+    font-weight: 1000;
+}
+
+.text {
+    color: black;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-bottom: 30px;
+    font-size: larger;
+    font-weight: 1000;
+}
+
+.backImg {
+    padding: 50px 50px 50px 50px;
+    background-image: url('/images/beach.jpg');
+    width: inherit;
+    vertical-align: middle;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: fit-content;
+}
