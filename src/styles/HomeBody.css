@@ -1,0 +1,49 @@
+.video {
+    width: 85%;
+    margin: 30px auto;
+    height: 540px;
+    display: block;
+}
+
+.videoTitle {
+    padding-top: 10px;
+    margin-top: 20px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.aboutTitle {
+    padding-top: 10px;
+    margin-top: 50px;
+    text-align: center;
+    padding-left: 20px;
+    font-size: 32px;
+    font-weight: 400;
+    color: black;
+}
+
+.aboutText {
+    font-size: larger;
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.aboutContainer {
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 100%;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 2;
+    height: fit-content;
+    margin: 0 auto;
+    border-top: 1px solid #dedddd;
+   /* background-color: rgba(245,245,245,0.6);
+    width: 85%;
+   */
+}
+
+.videoBackground {
+    
+}

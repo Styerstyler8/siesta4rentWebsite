@@ -1,0 +1,20 @@
+.blocked {
+    display: block;
+    color: whitesmoke;
+}
+
+.vertical {
+    display: block;
+}
+
+.white {
+    color: whitesmoke;
+}
+
+.major {
+    font-weight: 1000;
+}
+
+.shift {
+    margin-top: 24px;
+}

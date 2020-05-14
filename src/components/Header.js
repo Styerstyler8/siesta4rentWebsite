@@ -17,11 +17,11 @@ const Header = () => {
                     <a class="nav-item nav-link active" href="http://siesta4rent.com/">Home <span class="sr-only">(current)</span></a>
                     <a class="nav-item nav-link" href="https://siesta4rent.com/property.htm">Property List</a>
                     <a class="nav-item nav-link" href="https://siesta4rent.com/propview.htm">Calenders</a>
-                    <a class="nav-item nav-link" href="https://siesta4rent.com/imap.pdf">Island Map</a>
+                    <a class="nav-item nav-link" href="https://siesta4rent.com/imap.pdf" target="_blank">Island Map</a>
                     <a class="nav-item nav-link" href="https://siesta4rent.com/vendors.htm">Things to do</a>
                     <a class="nav-item nav-link" href="https://siesta4rent.com/terms.html">Rental Terms</a>
-                    <a class="nav-item nav-link" href="https://visitbeaches.org/">Beach Conditions</a>
-                    <a class="nav-item nav-link" href="https://www.earthcam.com/usa/florida/sarasota/?cam=siestabeach">Beach Cam</a>
+                    <a class="nav-item nav-link" href="https://visitbeaches.org/" target="_blank">Beach Conditions</a>
+                    <a class="nav-item nav-link" href="https://www.earthcam.com/usa/florida/sarasota/?cam=siestabeach" target="_blank">Beach Cam</a>
                 </div>
                 <form class="form-inline my-2 my-lg-0 ml-auto">
                     <a class="btn btn-large btn-outline-success my-2 my-sm-0" href="https://rentalprorentals.com/siesta4rent/search.cfm" role="button">Book Online</a>
